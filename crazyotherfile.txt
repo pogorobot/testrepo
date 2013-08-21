@@ -1,8 +1,0 @@
-This file contains secrets too dangerous to fit in the main branch!
-
-[              ]
-[                       ][          ]
-[        ][           ][              ]
-[             ][             ]
-
-Spooky!
